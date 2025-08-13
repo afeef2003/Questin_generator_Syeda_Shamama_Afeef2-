@@ -1,0 +1,42 @@
+@title Middle School Mathematics Problem Solving Assessment
+@description This assessment contains multiple-choice questions designed to test students' problem-solving abilities in counting arrangements and geometric spatial reasoning.
+
+@question A pizza restaurant offers size, crust, topping. How many combos?
+
+| size | crust | topping |
+| :---: | :---: | :---: |
+| Small | Thin | Pepperoni |
+| Medium | Thick | Mushroom |
+| Large | Stuffed | Sausage |
+
+@instruction Choose the correct answer.
+@difficulty moderate
+@Order 1
+@option 26
+@option 9
+@@option 27
+@option 54
+@option 28
+@explanation
+Multiply: 3 × 3 × 3 = 27
+@subject Quantitative Math
+@unit Data Analysis & Probability
+@topic Counting & Arrangement Problems
+@plusmarks 1
+
+@question The top view of a cylindrical container holding 8 tightly packed spherical balls is shown. Radius = 1.4 cm. Find base dimensions.
+@instruction Choose the correct answer.
+@difficulty moderate
+@Order 2
+@option 5 × 11
+@option 6 × 2
+@@option 11 × 5
+@option 12 × 12
+@option 5 × 2
+@explanation
+4 × 2.8 cm = 11.2 cm and 2 × 2.8 cm = 5.6 cm
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Area & Volume
+@plusmarks 1
+
